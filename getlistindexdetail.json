@@ -1,0 +1,38 @@
+[
+    {
+      "index": "VNI",
+      "last": "1472.12",
+      "change": "+5.08",
+      "changePc": "+0.34%",
+      "up": 185,
+      "down": 271,
+      "noChange": 45
+    },
+    {
+      "index": "HNX",
+      "last": "423.88",
+      "change": "+3.57",
+      "changePc": "+0.84%",
+      "up": 119,
+      "down": 103,
+      "noChange": 52
+    },
+    {
+      "index": "VN30",
+      "last": "1518.01",
+      "change": "-7.38",
+      "changePc": "-0.48%",
+      "up": 8,
+      "down": 20,
+      "noChange": 2
+    },
+    {
+      "index": "UPCOM",
+      "last": "113.41",
+      "change": "-0.11",
+      "changePc": "-0.10%",
+      "up": 218,
+      "down": 111,
+      "noChange": 69
+    }
+  ]

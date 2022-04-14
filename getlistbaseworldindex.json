@@ -1,0 +1,32 @@
+[
+    {
+      "index": "DowJones",
+      "last": "34,564.59",
+      "change": "+344.23",
+      "changePc": "+1.01%"
+    },
+    {
+      "index": "Nikkei225",
+      "last": "27,172.00",
+      "change": "+328.51",
+      "changePc": "+1.22%"
+    },
+    {
+      "index": "Shanghai",
+      "last": "3,225.64",
+      "change": "+38.82",
+      "changePc": "+1.22%"
+    },
+    {
+      "index": "HangSeng",
+      "last": "21,495.00",
+      "change": "+120.63",
+      "changePc": "+0.56%"
+    },
+    {
+      "index": "DJFuture",
+      "last": "34,565.30",
+      "change": "+0.7",
+      "changePc": "0.00%"
+    }
+  ]
